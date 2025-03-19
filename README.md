@@ -1,4 +1,4 @@
-## Hey 👋, I'm Marc Munene  
+## Hey 👋, I'm Marc Munene  and welcome to my profile
   
 
 <a href="https://dev.to/https://dev.to/marcmunene" target="_blank">
