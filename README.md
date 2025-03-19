@@ -51,9 +51,6 @@ I'm a skilled and results-driven software developer with a proven track record i
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -89,11 +86,11 @@ I'm a skilled and results-driven software developer with a proven track record i
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Munene&hide_border=true&layout=compact" align="right" /></div>
+
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Marc-Munene&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+
 
 </td></tr></table>  
 
