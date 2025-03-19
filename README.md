@@ -35,8 +35,8 @@ I'm a skilled and results-driven software developer with a proven track record i
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
+<div valign = "top" width="50%">
 - 🔭 I’m currently working on Classify  
   
 
@@ -48,12 +48,15 @@ I'm a skilled and results-driven software developer with a proven track record i
 
 - ⚡Fun fact: If the code works, don't touch it!  
 
+  
+</div>
 
-</td><td valign="top" width="50%">
 
 
 
-</td></tr></table>  
+
+
+
 
 <br/>  
 
