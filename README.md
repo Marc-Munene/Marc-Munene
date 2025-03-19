@@ -1,4 +1,4 @@
-## Hey 👋, I'm Marc Munene  and welcome to my profile
+## Hey 👋, welcome to my profile
   
 
 <a href="https://dev.to/https://dev.to/marcmunene" target="_blank">
@@ -32,7 +32,7 @@ I'm a skilled and results-driven software developer with a proven track record i
 <br/>  
 
 
-## Rapidfire  
+## I'm Marc Munene, and I speak fluent Code
 
 <div valign = "top" width="50%">
 - 🔭 I’m currently working on Classify  
